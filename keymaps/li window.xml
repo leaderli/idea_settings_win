@@ -118,6 +118,9 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Resume" />
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
