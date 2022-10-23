@@ -4,5 +4,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*.java</mask>
+    <mask>*.jxml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
