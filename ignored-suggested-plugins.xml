@@ -8,6 +8,7 @@
         <option value="TestNG-J" />
         <option value="com.intellij.spring" />
         <option value="com.intellij.spring.boot" />
+        <option value="com.intellij.javaee.web" />
       </list>
     </option>
   </component>
