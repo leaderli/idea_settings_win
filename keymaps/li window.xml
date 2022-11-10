@@ -114,7 +114,8 @@
   <action id="RecentLocations">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="RefactoringMenu">
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Resume" />
