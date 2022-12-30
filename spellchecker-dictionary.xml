@@ -4,6 +4,7 @@
       <w>bytebuddy</w>
       <w>canonicalize</w>
       <w>clinit</w>
+      <w>decl</w>
       <w>ints</w>
       <w>leaderli</w>
       <w>litool</w>
